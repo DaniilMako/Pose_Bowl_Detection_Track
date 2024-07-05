@@ -1,0 +1,6 @@
+train: ../0/images
+val: ../0/images
+test: ../0/images
+
+nc: 1
+names: ['space ship']
